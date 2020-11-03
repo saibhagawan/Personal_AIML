@@ -1,0 +1,5 @@
+Apriori Algorithm for market basket analysis:
+---------------------------------------------
+There we need to understand about Support, Confidence and Lift for the association rules to find.
+
+https://stackabuse.com/association-rule-mining-via-apriori-algorithm-in-python/
